@@ -14,6 +14,7 @@ Unzip the provided `.zip` file or clone the project repository into your system.
 
 ### Install Dependencies
 Open a terminal in the project folder and run:
+BEFORE INSTALL MAKE SURE DELETE THE NODE_MODULES/ FOLDER
 ```bash
 npm install
 ```
